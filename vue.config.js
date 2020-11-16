@@ -1,3 +1,3 @@
 module.exports = {
-  assetsDir: './',
+  assetsDir: './github-actions-demo',
 };
